@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">About Me</h1>
 
-<!--
-**PedroLabastie/PedroLabastie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Computer Engineering student</b> at the Instituto Nacional de Telecomunicações (INATEL), focused on backend development and software structure.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Working mainly with <b>Ruby, C, C++, Python, and Java</b>, with interest in relational databases, MVC architecture, and maintainable systems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Looking to grow as a developer capable of building <b>robust, well-organized, and reliable solutions</b>.
+</p>
+
+<h1 align="center">Tech Stack</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,c,cpp,python,java,arduino&perline=7" alt="Languages and core tools" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,firebase,supabase,git,github,postman,docker,notion&perline=10" alt="Databases and tools" />
+</p>
